@@ -25,7 +25,7 @@ The task involves building a simple Caesar Cipher program to **encrypt** and **d
 
 ## 📷 Screenshot
 
-![Sample Output](screenshots/sample_run.png)
+![Sample Output](Screenshots/sample_run.png)
 
 ---
 
