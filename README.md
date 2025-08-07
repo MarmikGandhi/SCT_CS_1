@@ -47,7 +47,7 @@ Enter shift value (number): 5
 1. **Install Python** (if not installed):  
    https://www.python.org/downloads/
 
-2. **Clone this repository** or [Download ZIP](https://github.com/your-username/SCT_CS_1)
+2. **Clone this repository** or [Download ZIP](https://github.com/MarmikGandhi/SCT_CS_1)
 
 3. **Navigate to the folder**:
    ```bash
@@ -109,7 +109,7 @@ After completing this task, I shared my learning experience and code insights on
 
 **Marmik Gandhi**  
 Cyber Security Intern – SkillCraft Technology  
-[GitHub](https://github.com/MarmikGandhi) | [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/MarmikGandhi) | [LinkedIn]((https://www.linkedin.com/in/marmik-gandhi/)
 
 ---
 
