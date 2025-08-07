@@ -109,7 +109,7 @@ After completing this task, I shared my learning experience and code insights on
 
 **Marmik Gandhi**  
 Cyber Security Intern – SkillCraft Technology  
-[GitHub](https://github.com/MarmikGandhi) | [LinkedIn]((https://www.linkedin.com/in/marmik-gandhi/)
+[GitHub](https://github.com/MarmikGandhi) | [LinkedIn](https://www.linkedin.com/in/marmik-gandhi/)
 
 ---
 
